@@ -6,4 +6,3 @@ networkx
 graphviz
 folium
 geopy
-sqlite3
